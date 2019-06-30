@@ -26,6 +26,8 @@
 
 ### JavaScript
 
+#####  1、[js 基础](https://www.edrawsoft.cn/viewer/public/s/f0bf7736926442)
+
 ### MySQL 
 
 ### Redis
