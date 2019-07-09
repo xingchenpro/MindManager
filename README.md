@@ -16,6 +16,8 @@
 
 ### Spring 应用
 
+##### 1、[SpringIOC 简介](https://www.edrawsoft.cn/viewer/public/s/201dd317279586)
+
 ### Spring 源码
 
 ##### 1、[BeanFactory & FactoryBean](https://www.edrawsoft.cn/viewer/public/s/8bef7333165733)
@@ -23,6 +25,12 @@
 ### Java
 
 ### JVM
+
+##### 1、[jvm 基础](https://www.edrawsoft.cn/viewer/public/s/ad06b938426995)
+##### 2、[jvm 类加载机制](https://www.edrawsoft.cn/viewer/public/s/1891a067047731)
+##### 3、[jvm 内存区域](https://www.edrawsoft.cn/viewer/public/s/d96d2620707340)
+##### 4、[jvm 垃圾收集算法](https://www.edrawsoft.cn/viewer/public/s/f233e682411599)
+##### 5、[jvm 垃圾收集器](https://www.edrawsoft.cn/viewer/public/s/5610e392246446)
 
 ### JavaScript
 
