@@ -16,7 +16,8 @@
 
 ### Spring 应用
 
-##### 1、[SpringIOC 简介](https://www.edrawsoft.cn/viewer/public/s/201dd317279586)
+##### 1、[SpringIOC 基础](https://www.edrawsoft.cn/viewer/public/s/201dd317279586)
+##### 2、[SpringAOP 基础](https://www.edrawsoft.cn/viewer/public/s/7bebb389805281)
 
 ### Spring 源码
 
