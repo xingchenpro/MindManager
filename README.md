@@ -26,6 +26,9 @@
 
 ### Java
 
+##### 1、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502)
+##### 2、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/d099b870420150)
+
 ### JVM
 
 ##### 1、[jvm 基础](https://www.edrawsoft.cn/viewer/public/s/ad06b938426995)
