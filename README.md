@@ -54,5 +54,5 @@
 
 ### 计算机网络
 
-看到这里，麻烦[start](https://github.com/huangliangyun/MindManager/edit/master/README.md)一下吧，拜托了，你的支持是我分享的动力!
+看到这里，麻烦[start](https://github.com/huangliangyun/MindManager)一下吧，拜托了，你的支持是我分享的动力!
 持续更新...
