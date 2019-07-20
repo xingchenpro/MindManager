@@ -43,10 +43,11 @@
 #####  1、[js 基础](https://www.edrawsoft.cn/viewer/public/s/f0bf7736926442)
 
 ### MySQL 
-
-##### 1、[MySQL 基础](https://www.edrawsoft.cn/viewer/public/s/1f540495408339)
-##### 2、[MySQL 底层](https://www.edrawsoft.cn/viewer/public/s/64da3500398214)
-##### 3、[InnoDB 存储引擎](https://www.edrawsoft.cn/viewer/public/s/77d31783382222)
+##### 1、[数据库基础](https://www.edrawsoft.cn/viewer/public/s/194bc772185736)
+##### 2、[MySQL 基础](https://www.edrawsoft.cn/viewer/public/s/1f540495408339)
+##### 3、[MySQL 底层](https://www.edrawsoft.cn/viewer/public/s/64da3500398214)
+##### 4、[InnoDB 存储引擎](https://www.edrawsoft.cn/viewer/public/s/77d31783382222)
+##### 5、[MySQL 事务及锁](https://www.edrawsoft.cn/viewer/public/s/b3da6442354915)
 
 ### Redis
 
@@ -60,3 +61,9 @@
 
 看到这里，麻烦[start](https://github.com/huangliangyun/MindManager)一下吧，拜托了，你的支持是我分享的动力!
 持续更新...
+
+>我的 Github：[Github](https://github.com/huangliangyun)
+>CSDN: [CSDN](https://blog.csdn.net/Sirius_hly)
+>个人网站: [sirius 的博客](http://www.javahly.com/)
+>E-mail: 1136513099@qq.com
+>项目地址 [Java 思维导图](https://github.com/huangliangyun/MindManager)
