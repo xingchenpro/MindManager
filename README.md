@@ -30,6 +30,10 @@
 ##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502)
 ##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/d099b870420150)
 
+###  Design Patterns
+
+##### 1、[设计模式原则](https://www.edrawsoft.cn/viewer/public/s/0d01f130949915)
+
 ### JVM
 
 ##### 1、[jvm 基础](https://www.edrawsoft.cn/viewer/public/s/ad06b938426995)
