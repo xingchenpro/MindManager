@@ -7,6 +7,7 @@
 ##### 1、[Java 核心知识(基础)](https://www.edrawsoft.cn/viewer/public/s/be149540490870)
 ##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502)
 ##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/d099b870420150)
+##### 4、[多线程进阶(二)](https://www.edrawsoft.cn/viewer/public/s/81428104981516)
 
 ###  Design Patterns
 
