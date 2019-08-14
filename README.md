@@ -84,7 +84,7 @@
 
 未来一年，我会以此为目标，构建一个全面的关于 Java 技术体系的思维导图，除此之外，我计划写一系列关于 Java 知识体系的文章，更加系统地呈现 Java 技术生态。
 
-这里同时也记录了我的学习和思考，如果你觉得哪个知识点有问题，你可以给我发邮件给我建议，为了表示感谢，我可以请你吃鸡腿！
+这里同时也记录了我的学习和思考，如果您觉得哪个知识点有问题，您可以给我发邮件或者加我QQ，微信给我建议，为了表示感谢，我可以请你吃鸡腿！
 
 竟然都已经看到这里了，麻烦点个赞吧！如果觉得还行，麻烦[start](https://github.com/huangliangyun/MindManager)一下吧，我们一起打造最 nb 的 Java 技术知识体系，你的支持是我分享的动力!
 
@@ -92,9 +92,9 @@
 
 ### 联系我
 
-1、我的 Github：[Github](https://github.com/huangliangyun)
-2、CSDN: [CSDN](https://blog.csdn.net/Sirius_hly)
-3、个人网站: [sirius 的博客](http://www.javahly.com/)
-4、E-mail: 1136513099@qq.com
-5、开源地址 [Java 思维导图](https://github.com/huangliangyun/MindManager)
++ 我的 Github：[Github](https://github.com/huangliangyun)
++ CSDN: [CSDN](https://blog.csdn.net/Sirius_hly)
++ 个人网站: [sirius 的博客](http://www.javahly.com/)
++ E-mail: 1136513099@qq.com
++ 开源地址 [Java 思维导图](https://github.com/huangliangyun/MindManager)
 
