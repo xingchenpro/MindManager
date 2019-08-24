@@ -15,6 +15,7 @@
 ###  Design Patterns
 
 ##### 1、[设计模式原则](https://www.edrawsoft.cn/viewer/public/s/0d01f130949915)
+##### 2、[常用设计模式](https://www.edrawsoft.cn/viewer/public/s/157ec263101331)
 
 ### Spring 应用
 
