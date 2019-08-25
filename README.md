@@ -10,7 +10,7 @@
 ##### 1、[Java 核心知识(基础)](https://www.edrawsoft.cn/viewer/public/s/be149540490870)
 ##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502)
 ##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/d099b870420150)
-##### 4、[多线程进阶(二)](https://www.edrawsoft.cn/viewer/public/s/81428104981516)
+
 
 ###  Design Patterns
 
@@ -38,6 +38,7 @@
 ##### 3、[jvm 内存区域](https://www.edrawsoft.cn/viewer/public/s/d96d2620707340)
 ##### 4、[jvm 垃圾收集算法](https://www.edrawsoft.cn/viewer/public/s/f233e682411599)
 ##### 5、[jvm 垃圾收集器](https://www.edrawsoft.cn/viewer/public/s/5610e392246446)
+##### 6、[调优实战](https://www.edrawsoft.cn/viewer/public/s/a48c7616160494)
 
 ### Docker
 
