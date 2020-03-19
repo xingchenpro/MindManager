@@ -51,12 +51,14 @@
 ##### 8、[Dockerfile](https://www.edrawsoft.cn/viewer/public/s/2da0e541635776)
 ##### 9、[Docker Compose](https://www.edrawsoft.cn/viewer/public/s/58d00244559991)
 
-### MySQL 
+### MySQL (最近更新 3.19)
 ##### 1、[数据库基础](https://www.edrawsoft.cn/viewer/public/s/194bc772185736)
 ##### 2、[MySQL 基础](https://www.edrawsoft.cn/viewer/public/s/1f540495408339)
 ##### 3、[MySQL 底层](https://www.edrawsoft.cn/viewer/public/s/64da3500398214)
-##### 4、[InnoDB 存储引擎](https://www.edrawsoft.cn/viewer/public/s/77d31783382222)
-##### 5、[MySQL 事务及锁](https://www.edrawsoft.cn/viewer/public/s/b3da6442354915)
+##### 4、[MySQL 事务及锁](https://www.edrawsoft.cn/viewer/public/s/b3da6442354915)
+##### 5、[MySQL 调优](https://www.edrawsoft.cn/viewer/public/s/346a0524591264)
+##### 6、[InnoDB 存储引擎](https://www.edrawsoft.cn/viewer/public/s/77d31783382222)
+
 
 ### Redis
 
