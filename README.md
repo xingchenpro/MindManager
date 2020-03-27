@@ -32,6 +32,8 @@
 ##### 4、[Spring 总流程图](https://www.edrawsoft.cn/viewer/public/s/c6f89772704943)
 ##### 5、[BeanFactory & FactoryBean](https://www.edrawsoft.cn/viewer/public/s/8bef7333165733)
 
+### Netty
+##### 1、 [Netty 基础简介](https://www.edrawsoft.cn/viewer/public/s/cc296950981845)
 
 ### JVM
 
