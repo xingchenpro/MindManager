@@ -2,7 +2,7 @@
 
 <h2 align="center">Java 思维导图 </h2>
 
-## 目录
+[![](https://img.shields.io/badge/license-Apache%202-blue)](https://github.com/huangliangyun/MindManager/blob/master/LICENSE)
 
 ### Java
 
