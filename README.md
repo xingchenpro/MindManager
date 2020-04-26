@@ -9,9 +9,9 @@
 [![](https://github.com/huangliangyun/MindManager/blob/master/images/platform-MindMaster-red.svg)](https://www.edrawsoft.cn/mindmaster/)
 
 
-### Java
+### Java (最近更新 4.27)
 ##### 1、[Java 核心知识(基础)](https://www.edrawsoft.cn/viewer/public/s/be149540490870)
-##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502)
+##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502)(最近更新 4.27)
 ##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/d099b870420150)
 
 ### 集合类 (最近更新 4.13)
@@ -72,12 +72,12 @@
 ##### 8、[Dockerfile 实践](https://www.edrawsoft.cn/viewer/public/s/2da0e541635776)
 ##### 9、[Docker Compose](https://www.edrawsoft.cn/viewer/public/s/58d00244559991)
 
-### MySQL (最近更新 3.23)
+### MySQL (最近更新 4.27)
 ##### 1、[数据库基础](https://www.edrawsoft.cn/viewer/public/s/194bc772185736)
 ##### 2、[MySQL 基础](https://www.edrawsoft.cn/viewer/public/s/1f540495408339)
 ##### 3、[MySQL 底层](https://www.edrawsoft.cn/viewer/public/s/64da3500398214)
 ##### 4、[MySQL 事务及锁](https://www.edrawsoft.cn/viewer/public/s/b3da6442354915)
-##### 5、[MySQL 调优](https://www.edrawsoft.cn/viewer/public/s/346a0524591264)
+##### 5、[MySQL 调优](https://www.edrawsoft.cn/viewer/public/s/346a0524591264) (最近更新 4.27)
 ##### 6、[InnoDB 存储引擎](https://www.edrawsoft.cn/viewer/public/s/77d31783382222)
 
 ### Redis (最近更新 3.23)
