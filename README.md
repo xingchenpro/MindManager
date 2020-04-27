@@ -9,10 +9,10 @@
 [![](https://github.com/huangliangyun/MindManager/blob/master/images/platform-MindMaster-red.svg)](https://www.edrawsoft.cn/mindmaster/)
 
 
-### Java (最近更新 4.27)
+### Java (最近更新 4.28)
 ##### 1、[Java 核心知识(基础)](https://www.edrawsoft.cn/viewer/public/s/be149540490870)
-##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502)(最近更新 4.27)
-##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/d099b870420150)
+##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502) (最近更新 4.27)
+##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/d099b870420150) (最近更新 4.28)
 
 ### 集合类 (最近更新 4.13)
 ##### 1、[横扫 List 底层](https://www.edrawsoft.cn/viewer/public/s/209b5392084996)
