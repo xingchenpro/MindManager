@@ -11,8 +11,9 @@
 
 ### Java (最近更新 4.28)
 ##### 1、[Java 核心知识(基础)](https://www.edrawsoft.cn/viewer/public/s/be149540490870)
-##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502) (最近更新 4.27)
+##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502) (最近更新 4.29)
 ##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/d099b870420150) (最近更新 4.28)
+##### 3、[多线程进阶(二)](https://www.edrawsoft.cn/viewer/public/s/81428104981516) (最近更新 4.29)
 
 ### 集合类 (最近更新 4.13)
 ##### 1、[横扫 List 底层](https://www.edrawsoft.cn/viewer/public/s/209b5392084996)
