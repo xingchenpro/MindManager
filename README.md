@@ -11,8 +11,8 @@
 
 ### Java (最近更新 4.28)
 ##### 1、[Java 核心知识(基础)](https://www.edrawsoft.cn/viewer/public/s/be149540490870)
-##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502) (最近更新 4.29)
-##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/d099b870420150) (最近更新 4.28)
+##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bc1ba289567380) (最近更新 4.29)
+##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/ec7cf936383803) (最近更新 4.28)
 ##### 3、[多线程进阶(二)](https://www.edrawsoft.cn/viewer/public/s/81428104981516) (最近更新 4.29)
 
 ### 集合类 (最近更新 4.13)
@@ -35,7 +35,7 @@
 
 ### Spring 应用
 ##### 1、[SpringIOC 基础](https://www.edrawsoft.cn/viewer/public/s/201dd317279586)
-##### 2、[SpringAOP 基础](https://www.edrawsoft.cn/viewer/public/s/7bebb389805281)
+##### 2、[SpringAOP 基础](https://www.edrawsoft.cn/viewer/public/s/0f9ee544959098)
 
 ### Spring 源码 
 ##### 1、[Spring 容器](https://www.edrawsoft.cn/viewer/public/s/571eb456391756)
