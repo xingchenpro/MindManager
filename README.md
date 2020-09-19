@@ -26,9 +26,9 @@
 ##### 2、[常用设计模式](https://www.edrawsoft.cn/viewer/public/s/157ec263101331)
 
 ### JVM
-##### 1、[jvm 基础](https://www.edrawsoft.cn/viewer/public/s/ad06b938426995)
+##### 1、[jvm 基础](https://www.edrawsoft.cn/viewer/public/s/83413886746218)
 ##### 2、[jvm 类加载机制](https://www.edrawsoft.cn/viewer/public/s/1891a067047731)
-##### 3、[jvm 内存区域](https://www.edrawsoft.cn/viewer/public/s/d96d2620707340)
+##### 3、[jvm 内存区域](https://www.edrawsoft.cn/viewer/public/s/34ebd815892395)
 ##### 4、[jvm 垃圾收集算法](https://www.edrawsoft.cn/viewer/public/s/f233e682411599)
 ##### 5、[jvm 垃圾收集器](https://www.edrawsoft.cn/viewer/public/s/5610e392246446)
 ##### 6、[调优实战](https://www.edrawsoft.cn/viewer/public/s/a48c7616160494)
