@@ -9,13 +9,13 @@
 [![](https://github.com/huangliangyun/MindManager/blob/master/images/platform-MindMaster-red.svg)](https://www.edrawsoft.cn/mindmaster/)
 
 
-### Java (最近更新 4.28)
+### Java
 ##### 1、[Java 核心知识(基础)](https://www.edrawsoft.cn/viewer/public/s/be149540490870)
-##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502) (最近更新 4.29)
-##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/d099b870420150) (最近更新 4.28)
-##### 3、[多线程进阶(二)](https://www.edrawsoft.cn/viewer/public/s/81428104981516) (最近更新 4.29)
+##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502) 
+##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/d099b870420150) 
+##### 3、[多线程进阶(二)](https://www.edrawsoft.cn/viewer/public/s/81428104981516) 
 
-### 集合类 (最近更新 4.13)
+### 集合类 
 ##### 1、[横扫 List 底层](https://www.edrawsoft.cn/viewer/public/s/209b5392084996)
 ##### 2、[横扫 HashMap 底层](https://www.edrawsoft.cn/viewer/public/s/c148e747696224)
 ##### 3、[横扫 ConcurrentHashMap 底层](https://www.edrawsoft.cn/viewer/public/s/eba6f838827450)
@@ -44,22 +44,22 @@
 ##### 4、[Spring 总流程图](https://www.edrawsoft.cn/viewer/public/s/20ad2716641966)
 ##### 5、[BeanFactory & FactoryBean](https://www.edrawsoft.cn/viewer/public/s/8bef7333165733)
 
-### MyBatis源码 (最近更新 4.13)
+### MyBatis源码 
 ##### 1、[一级缓存二级缓存](https://www.edrawsoft.cn/viewer/public/s/f1e43305144440)
 
 ### Netty
 ##### 1、 [Netty 基础简介](https://www.edrawsoft.cn/viewer/public/s/cc296950981845)
 
-### MQ (最近更新 4.13)
+### MQ
 ##### 1、[简介](https://www.edrawsoft.cn/viewer/public/s/017f6387516915)
 ##### 2、[RabbitMQ](https://www.edrawsoft.cn/viewer/public/s/8a90d330815272)
 ##### 3、[RocketMQ](https://www.edrawsoft.cn/viewer/public/s/2e4a2199722956)
 ##### 4、[Kafka](https://www.edrawsoft.cn/viewer/public/s/bf483724531003)
 
-### Nginx (最近更新 4.13)
+### Nginx 
 ##### [Nginx](https://www.edrawsoft.cn/viewer/public/s/7ba75694920324)
 
-### Tomcat (最近更新 4.13)
+### Tomcat 
 ##### 1、[Tomcat 源码与调优](https://www.edrawsoft.cn/viewer/public/s/79662575559973)
 
 ### Docker
@@ -73,15 +73,15 @@
 ##### 8、[Dockerfile 实践](https://www.edrawsoft.cn/viewer/public/s/2da0e541635776)
 ##### 9、[Docker Compose](https://www.edrawsoft.cn/viewer/public/s/58d00244559991)
 
-### MySQL (最近更新 4.27)
+### MySQL
 ##### 1、[数据库基础](https://www.edrawsoft.cn/viewer/public/s/194bc772185736)
 ##### 2、[MySQL 基础](https://www.edrawsoft.cn/viewer/public/s/1f540495408339)
 ##### 3、[MySQL 底层](https://www.edrawsoft.cn/viewer/public/s/64da3500398214)
 ##### 4、[MySQL 事务及锁](https://www.edrawsoft.cn/viewer/public/s/b3da6442354915)
-##### 5、[MySQL 调优](https://www.edrawsoft.cn/viewer/public/s/346a0524591264) (最近更新 4.27)
+##### 5、[MySQL 调优](https://www.edrawsoft.cn/viewer/public/s/346a0524591264)
 ##### 6、[InnoDB 存储引擎](https://www.edrawsoft.cn/viewer/public/s/77d31783382222)
 
-### Redis (最近更新 3.23)
+### Redis
 ##### 1、[Redis 基础](https://www.edrawsoft.cn/viewer/public/s/1049a420401306)
 ##### 2、[Redis 分布式锁](https://www.edrawsoft.cn/viewer/public/s/1c959315730340)
 ##### 3、[Redis 缓存三穿](https://www.edrawsoft.cn/viewer/public/s/1491d817909265)
@@ -91,13 +91,13 @@
 ##### 7、[Redis 配置文件](https://www.edrawsoft.cn/viewer/public/s/82bbe532424200)
 ##### 8、[Redis 缓存淘汰策略](https://www.edrawsoft.cn/viewer/public/s/b7300254604442)
 
-### Zookeeper(最近更新 4.13)
+### Zookeeper
 ##### 1、[单机与集群原理](https://www.edrawsoft.cn/viewer/public/s/d229c554437802)
 
-### 分表分库(最近更新 3.23)
+### 分表分库
 ##### 1、[数据库分表分库](https://www.edrawsoft.cn/viewer/public/s/68b35076602361)
 
-### Elasticsearch(最近更新 3.23)
+### Elasticsearch
 ##### 1、[Elasticsearch 简介](https://www.edrawsoft.cn/viewer/public/s/46865747144583)
 
 ### Algorithm
