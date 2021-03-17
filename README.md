@@ -1,7 +1,6 @@
 
 
 <h2 align="center">Java 思维导图 </h2>
-
 [![](https://github.com/huangliangyun/MindManager/blob/master/images/language-java-red.svg)]()
 [![](https://github.com/huangliangyun/MindManager/blob/master/images/license-Apache-lightgrey.svg)](https://github.com/huangliangyun/MindManager/blob/master/LICENSE)
 [![](https://github.com/huangliangyun/MindManager/blob/master/images/version-v1-important.svg)]()
@@ -10,110 +9,110 @@
 
 
 ### Java
-##### 1、[Java 核心知识(基础)](https://www.edrawsoft.cn/viewer/public/s/be149540490870)
-##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/bef2d893121502) 
-##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/d099b870420150) 
-##### 3、[多线程进阶(二)](https://www.edrawsoft.cn/viewer/public/s/81428104981516) 
+##### 1、[Java 核心知识(基础)](https://www.edrawsoft.cn/viewer/public/s/d3304014062252)
+##### 2、[多线程基础](https://www.edrawsoft.cn/viewer/public/s/6056d159517472) 
+##### 3、[多线程进阶(一)](https://www.edrawsoft.cn/viewer/public/s/9ef72717043634) 
+##### 3、[多线程进阶(二)](https://www.edrawsoft.cn/viewer/public/s/61f3b342924121) 
 
 ### 集合类 
-##### 1、[横扫 List 底层](https://www.edrawsoft.cn/viewer/public/s/209b5392084996)
-##### 2、[横扫 HashMap 底层](https://www.edrawsoft.cn/viewer/public/s/c148e747696224)
-##### 3、[横扫 ConcurrentHashMap 底层](https://www.edrawsoft.cn/viewer/public/s/eba6f838827450)
+##### 1、[横扫 List 底层](https://www.edrawsoft.cn/viewer/public/s/2aaea570691127)
+##### 2、[横扫 HashMap 底层](https://www.edrawsoft.cn/viewer/public/s/9a778505612770)
+##### 3、[横扫 ConcurrentHashMap 底层](https://www.edrawsoft.cn/viewer/public/s/64992915126596)
 
 
 ###  Design Patterns
-##### 1、[设计模式原则](https://www.edrawsoft.cn/viewer/public/s/0d01f130949915)
-##### 2、[常用设计模式](https://www.edrawsoft.cn/viewer/public/s/157ec263101331)
+##### 1、[设计模式原则](https://www.edrawsoft.cn/viewer/public/s/01bc5409373044)
+##### 2、[常用设计模式](https://www.edrawsoft.cn/viewer/public/s/cbf75953655884)
 
 ### JVM
-##### 1、[jvm 基础](https://www.edrawsoft.cn/viewer/public/s/ad06b938426995)
-##### 2、[jvm 类加载机制](https://www.edrawsoft.cn/viewer/public/s/1891a067047731)
-##### 3、[jvm 内存区域](https://www.edrawsoft.cn/viewer/public/s/d96d2620707340)
-##### 4、[jvm 垃圾收集算法](https://www.edrawsoft.cn/viewer/public/s/f233e682411599)
-##### 5、[jvm 垃圾收集器](https://www.edrawsoft.cn/viewer/public/s/5610e392246446)
-##### 6、[调优实战](https://www.edrawsoft.cn/viewer/public/s/a48c7616160494)
+##### 1、[jvm 基础](https://www.edrawsoft.cn/viewer/public/s/9e9df072482035)
+##### 2、[jvm 类加载机制](https://www.edrawsoft.cn/viewer/public/s/8ec81252068607)
+##### 3、[jvm 内存区域](https://www.edrawsoft.cn/viewer/public/s/3a5b0675105734)
+##### 4、[jvm 垃圾回收算法](https://www.edrawsoft.cn/viewer/public/s/082f9222909985)
+##### 5、[jvm 垃圾收集器](https://www.edrawsoft.cn/viewer/public/s/d4b43719055125)
+##### 6、[调优实战](https://www.edrawsoft.cn/viewer/public/s/daaeb859350293)
 
 ### Spring 应用
-##### 1、[SpringIOC 基础](https://www.edrawsoft.cn/viewer/public/s/201dd317279586)
-##### 2、[SpringAOP 基础](https://www.edrawsoft.cn/viewer/public/s/7bebb389805281)
+##### 1、[SpringIOC 基础](https://www.edrawsoft.cn/viewer/public/s/1c0d8202279465)
+##### 2、[SpringAOP 基础](https://www.edrawsoft.cn/viewer/public/s/3ee48629045925)
 
 ### Spring 源码 
-##### 1、[Spring 容器](https://www.edrawsoft.cn/viewer/public/s/571eb456391756)
-##### 2、[Bean 的扫描与注册](https://www.edrawsoft.cn/viewer/public/s/c1059963916605)
-##### 3、[Bean 的实例化和初始化](https://www.edrawsoft.cn/viewer/public/s/28c35918223954)
-##### 4、[Spring 总流程图](https://www.edrawsoft.cn/viewer/public/s/20ad2716641966)
-##### 5、[BeanFactory & FactoryBean](https://www.edrawsoft.cn/viewer/public/s/8bef7333165733)
+##### 1、[Spring 容器](https://www.edrawsoft.cn/viewer/public/s/92223019213212)
+##### 2、[Bean 的扫描与注册](https://www.edrawsoft.cn/viewer/public/s/ab0ab579959670)
+##### 3、[Bean 的实例化和初始化](https://www.edrawsoft.cn/viewer/public/s/9a8dc145045761)
+##### 4、[Spring 总流程图](https://www.edrawsoft.cn/viewer/public/s/8555a967023539)
+##### 5、[BeanFactory & FactoryBean](https://www.edrawsoft.cn/viewer/public/s/084c5157486357)
 
 ### MyBatis源码 
-##### 1、[一级缓存二级缓存](https://www.edrawsoft.cn/viewer/public/s/f1e43305144440)
+##### 1、[一级缓存二级缓存](https://www.edrawsoft.cn/viewer/public/s/e86a6201036068)
 
 ### Netty
-##### 1、 [Netty 基础简介](https://www.edrawsoft.cn/viewer/public/s/cc296950981845)
+##### 1、 [Netty 基础简介](https://www.edrawsoft.cn/viewer/public/s/1838e525400825)
 
 ### MQ
-##### 1、[简介](https://www.edrawsoft.cn/viewer/public/s/017f6387516915)
-##### 2、[RabbitMQ](https://www.edrawsoft.cn/viewer/public/s/8a90d330815272)
-##### 3、[RocketMQ](https://www.edrawsoft.cn/viewer/public/s/2e4a2199722956)
-##### 4、[Kafka](https://www.edrawsoft.cn/viewer/public/s/bf483724531003)
+##### 1、[简介](https://www.edrawsoft.cn/viewer/public/s/c34a2128437233)
+##### 2、[RabbitMQ](https://www.edrawsoft.cn/viewer/public/s/22d7e386390051)
+##### 3、[RocketMQ](https://www.edrawsoft.cn/viewer/public/s/3fcb8009586330)
+##### 4、[Kafka](https://www.edrawsoft.cn/viewer/public/s/a0756440639750)
 
 ### Nginx 
-##### [Nginx](https://www.edrawsoft.cn/viewer/public/s/7ba75694920324)
+##### [Nginx](https://www.edrawsoft.cn/viewer/public/s/091df834849375)
 
 ### Tomcat 
-##### 1、[Tomcat 源码与调优](https://www.edrawsoft.cn/viewer/public/s/79662575559973)
+##### 1、[Tomcat 源码与调优](https://www.edrawsoft.cn/viewer/public/s/06064132231285)
 
 ### Docker
-##### 1、[Docker 简介](https://www.edrawsoft.cn/viewer/public/s/9e52b441895471)
-##### 2、[Docker 镜像](https://www.edrawsoft.cn/viewer/public/s/2c94f222243674)
-##### 3、[Docker 容器](https://www.edrawsoft.cn/viewer/public/s/ad700697881821)
-##### 4、[Docker 仓库](https://www.edrawsoft.cn/viewer/public/s/0ef89055314178)
-##### 5、[Docker 数据](https://www.edrawsoft.cn/viewer/public/s/c16a8833323412)
-##### 6、[Docker 网络](https://www.edrawsoft.cn/viewer/public/s/47d50080678938)
-##### 7、[Docker 部署](https://www.edrawsoft.cn/viewer/public/s/4a33d339374606)
-##### 8、[Dockerfile 实践](https://www.edrawsoft.cn/viewer/public/s/2da0e541635776)
-##### 9、[Docker Compose](https://www.edrawsoft.cn/viewer/public/s/58d00244559991)
+##### 1、[Docker 简介](https://www.edrawsoft.cn/viewer/public/s/35c9b405000093)
+##### 2、[Docker 镜像](https://www.edrawsoft.cn/viewer/public/s/2f8e2364311686)
+##### 3、[Docker 容器](https://www.edrawsoft.cn/viewer/public/s/d2693716170549)
+##### 4、[Docker 仓库](https://www.edrawsoft.cn/viewer/public/s/2e78a640304051)
+##### 5、[Docker 数据](https://www.edrawsoft.cn/viewer/public/s/ed6d3394788663)
+##### 6、[Docker 网络](https://www.edrawsoft.cn/viewer/public/s/a52d8912797046)
+##### 7、[Docker 部署](https://www.edrawsoft.cn/viewer/public/s/07c6f920807495)
+##### 8、[Dockerfile 实践](https://www.edrawsoft.cn/viewer/public/s/7afba272835304)
+##### 9、[Docker Compose](https://www.edrawsoft.cn/viewer/public/s/25ab5352292418)
 
 ### MySQL
-##### 1、[数据库基础](https://www.edrawsoft.cn/viewer/public/s/194bc772185736)
-##### 2、[MySQL 基础](https://www.edrawsoft.cn/viewer/public/s/1f540495408339)
-##### 3、[MySQL 底层](https://www.edrawsoft.cn/viewer/public/s/64da3500398214)
-##### 4、[MySQL 事务及锁](https://www.edrawsoft.cn/viewer/public/s/b3da6442354915)
-##### 5、[MySQL 调优](https://www.edrawsoft.cn/viewer/public/s/346a0524591264)
-##### 6、[InnoDB 存储引擎](https://www.edrawsoft.cn/viewer/public/s/77d31783382222)
+##### 1、[数据库基础](https://www.edrawsoft.cn/viewer/public/s/ba14f854964803)
+##### 2、[MySQL 基础](https://www.edrawsoft.cn/viewer/public/s/d5c50865479302)
+##### 3、[MySQL 底层](https://www.edrawsoft.cn/viewer/public/s/d139a407482492)
+##### 4、[MySQL 事务及锁](https://www.edrawsoft.cn/viewer/public/s/50442184607257)
+##### 5、[MySQL 调优](https://www.edrawsoft.cn/viewer/public/s/6eea6857728582)
+##### 6、[InnoDB 存储引擎](https://www.edrawsoft.cn/viewer/public/s/2b7b8488715430)
 
 ### Redis
-##### 1、[Redis 基础](https://www.edrawsoft.cn/viewer/public/s/1049a420401306)
-##### 2、[Redis 分布式锁](https://www.edrawsoft.cn/viewer/public/s/1c959315730340)
-##### 3、[Redis 缓存三穿](https://www.edrawsoft.cn/viewer/public/s/1491d817909265)
-##### 4、[Redis 高可用](https://www.edrawsoft.cn/viewer/public/s/a3452877530767)
-##### 5、[Redis 高级数据结构](https://www.edrawsoft.cn/viewer/public/s/333dc324578387)
-##### 6、[Redis 持久化机制](https://www.edrawsoft.cn/viewer/public/s/b47e0316285014)
-##### 7、[Redis 配置文件](https://www.edrawsoft.cn/viewer/public/s/82bbe532424200)
-##### 8、[Redis 缓存淘汰策略](https://www.edrawsoft.cn/viewer/public/s/b7300254604442)
+##### 1、[Redis 基础](https://www.edrawsoft.cn/viewer/public/s/d705a352565235)
+##### 2、[Redis 分布式锁](https://www.edrawsoft.cn/viewer/public/s/efd9e764130896)
+##### 3、[Redis 缓存三穿](https://www.edrawsoft.cn/viewer/public/s/95bdb645459265)
+##### 4、[Redis 高可用](https://www.edrawsoft.cn/viewer/public/s/d0394682058223)
+##### 5、[Redis 高级数据结构](https://www.edrawsoft.cn/viewer/public/s/b3478613842485)
+##### 6、[Redis 持久化机制](https://www.edrawsoft.cn/viewer/public/s/9b2b5376193022)
+##### 7、[Redis 配置文件](https://www.edrawsoft.cn/viewer/public/s/21949611321928)
+##### 8、[Redis 缓存淘汰策略](https://www.edrawsoft.cn/viewer/public/s/813d6785011209)
 
 ### Zookeeper
-##### 1、[单机与集群原理](https://www.edrawsoft.cn/viewer/public/s/d229c554437802)
+##### 1、[单机与集群原理](https://www.edrawsoft.cn/viewer/public/s/ac378600336592)
 
 ### 分表分库
-##### 1、[数据库分表分库](https://www.edrawsoft.cn/viewer/public/s/68b35076602361)
+##### 1、[数据库分表分库](https://www.edrawsoft.cn/viewer/public/s/b6d88423052382)
 
 ### Elasticsearch
-##### 1、[Elasticsearch 简介](https://www.edrawsoft.cn/viewer/public/s/46865747144583)
+##### 1、[Elasticsearch 简介](https://www.edrawsoft.cn/viewer/public/s/4cacf385894554)
 
 ### Algorithm
-##### [八大排序](https://www.edrawsoft.cn/viewer/public/s/74101413719166)
+##### [八大排序](https://www.edrawsoft.cn/viewer/public/s/1ca7c414107367)
 
 ### 前端
-##### 1、[跨域问题](https://www.edrawsoft.cn/viewer/public/s/00d85327533127)
-##### 2、[RESTful API](https://www.edrawsoft.cn/viewer/public/s/ba582249468095)
+##### 1、[跨域问题](https://www.edrawsoft.cn/viewer/public/s/5ee44873449709)
+##### 2、[RESTful API](https://www.edrawsoft.cn/viewer/public/s/87386071502563)
 
 ### JavaScript
-#####  1、[js 基础](https://www.edrawsoft.cn/viewer/public/s/f0bf7736926442)
+#####  1、[js 基础](https://www.edrawsoft.cn/viewer/public/s/11b0f882719613)
 
 ### 计算机网络
-##### 1、[网络体系结构](https://www.edrawsoft.cn/viewer/public/s/d8c4f463412634)
-##### 2、[三次握手四次挥手](https://www.edrawsoft.cn/viewer/public/s/e2bd1298191000)
-##### 3、[TCP&UDP](https://www.edrawsoft.cn/viewer/public/s/7413b093232375)
+##### 1、[网络体系结构](https://www.edrawsoft.cn/viewer/public/s/234cc633968764)
+##### 2、[三次握手四次挥手](https://www.edrawsoft.cn/viewer/public/s/92df7729333892)
+##### 3、[TCP&UDP](https://www.edrawsoft.cn/viewer/public/s/54596380275810)
 
 ### 关于
 
@@ -133,7 +132,8 @@
 
 + 我的 Github：[Github](https://github.com/huangliangyun)
 + CSDN: [CSDN](https://blog.csdn.net/Sirius_hly)
-+ 个人网站: [sirius 的博客](http://www.javahly.com/)
++ 微信:【xcvip2021】
++ 公众号: 【星尘Pro】
 + E-mail: 1136513099@qq.com
 + 开源地址 [Java 思维导图](https://github.com/huangliangyun/MindManager)
 
