@@ -1,6 +1,7 @@
 
 
 <h2 align="center">Java 思维导图 </h2>
+
 [![](https://github.com/huangliangyun/MindManager/blob/master/images/language-java-red.svg)]()
 [![](https://github.com/huangliangyun/MindManager/blob/master/images/license-Apache-lightgrey.svg)](https://github.com/huangliangyun/MindManager/blob/master/LICENSE) [![](https://github.com/huangliangyun/MindManager/blob/master/images/version-v1-important.svg)]() 
 [![](https://github.com/huangliangyun/MindManager/blob/master/images/csdn-csdn-blue.svg)](https://blog.csdn.net/Sirius_hly)
